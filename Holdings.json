@@ -1,0 +1,12 @@
+[
+  {
+    "Ticker": "MSFT",
+    "NumShares": 1,
+    "AvgPricePerShare": 184.12
+  },
+  {
+    "Ticker": "GOOG",
+    "NumShares": 3,
+    "AvgPricePerShare": 1250.90
+  }
+]
