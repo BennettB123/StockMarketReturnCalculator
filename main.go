@@ -22,7 +22,7 @@ func main() {
 			"    {\n"+
 			"      \"Ticker\": <ticker_symbol> (string),\n"+
 			"      \"NumShares\": <number_of_shares> (int)>,\n"+
-			"      \"AvgPricePerShare\": <average_price_pad_per_share> (float)>\n"+
+			"      \"AvgPricePerShare\": <average_price_paid_per_share> (float)>\n"+
 			"    },\n"+
 			"    ...\n"+
 			"  ]\n"+
