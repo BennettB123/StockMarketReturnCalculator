@@ -12,7 +12,7 @@ To use the application, run the command:
 <executable_name> <path_to_holdings_file> <path_to_api_key>
 ```
 where <path_to_holdings_file> is a JSON file of the form:
-```JSON
+```
 [
   {
     "Ticker": ticker_symbol,
