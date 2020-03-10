@@ -1,5 +1,7 @@
 # StockMarketReturnCalculator
-Go application to calculate your current returns from the stock market
+Go application to calculate your current returns from the stock market.
+
+note: The API used in this application updates their stock information at the end of each trading day (4:00pm EST). Therefore, this application will calculate your returns based on data from the previous market close.
 
 ## How to Use
 The application can be built by using the following command in the directory where main.go is located:
